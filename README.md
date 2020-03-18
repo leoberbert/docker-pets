@@ -16,7 +16,7 @@ OBS: Agora é só aguardar até que seu ambiente seja feito de forma automática
 
 3 - Agora basta acessar o endereço http://192.168.0.111:5000 para ter acesso ao sistema rodando dentro do Vagrant com o docker.
 
-OBS: O ip mencionado acima poderá ser alerado dentro do arquivo Vagrantfile.
+OBS: O IP mencionado acima poderá ser alterado dentro do arquivo Vagrantfile.
 
 
 
